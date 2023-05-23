@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smile-smiles
-- 👀 I’m interested in ... CREATING BOT
-- 🌱 I’m currently learning ...application for bots
+- 👀 I’m interested in DEVELOPING 
+- 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
